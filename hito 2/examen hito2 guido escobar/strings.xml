@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">corona</string>
+    <string name="epi">EPIDEMIA CORONA VIRUS</string>
+    <string name="cocha">COCHABAMBA</string>
+    <string name="oro">ORURO</string>
+    <string name="santa">SANTA CRUZ</string>
+    <string name="cocha1">casos confirmados</string>
+    <string name="cocha2">casos sospechosos</string>
+    <string name="conf1">Nro de casos</string>
+    <string name="sos1">Nro de sospechosos</string>
+    <string name="oro1">casos confirmados</string>
+    <string name="oro2">casos sospechosos</string>
+    <string name="conf11">Nro de casos</string>
+    <string name="sos11">Nro de sospechosos</string>
+    <string name="santa1">casos confirmados</string>
+    <string name="conf111">Nro de casos</string>
+    <string name="santa2">casos sospechosos</string>
+    <string name="sos111">Nro de sospechosos</string>
+    <string name="casosconfir">Nro</string>
+    <string name="casosSos">Nro</string>
+    <string name="pais">pais</string>
+    <string name="set">set values</string>
+    <string name="busque">Ingrese busqueda</string>
+    <string name="call">calcular</string>
+
+
+</resources>
